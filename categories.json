@@ -2,7 +2,7 @@
   {
     "id": "movies",
     "name": "Movies",
-    "thumbnail": "https://i.ytimg.com/vi/Yx_Yh2SLCHo/hqdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tt0lsOMzrAc/hqdefault.jpg",
     "query": "full movies English HD",
     "maxResults": 50,
     "path": "movies.json",
@@ -11,7 +11,7 @@
   {
     "id": "cartoons",
     "name": "Cartoons",
-    "thumbnail": "https://example.com/cartoons.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/uMm9UECLGqw/hqdefault.jpg",
     "query": "best cartoons for kids full episodes",
     "maxResults": 50,
     "path": "cartoons.json"
@@ -19,7 +19,7 @@
   {
     "id": "nature",
     "name": "Nature",
-    "thumbnail": "https://example.com/nature.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/v9H8P22SHbA/hqdefault.jpg",
     "query": "amazing nature documentaries",
     "maxResults": 50,
     "path": "nature.json"
@@ -27,7 +27,7 @@
   {
     "id": "sports",
     "name": "Sports",
-    "thumbnail": "https://example.com/sports.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/l4iAHFidcFk/hqdefault.jpg",
     "query": "best football goals",
     "maxResults": 50,
     "path": "sports.json"
@@ -35,7 +35,7 @@
   {
     "id": "comedy",
     "name": "Comedy",
-    "thumbnail": "https://example.com/comedy.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/iYN5lx6DJs0/hqdefault.jpg",
     "query": "funny moments compilation",
     "maxResults": 50,
     "path": "comedy.json"
@@ -43,7 +43,7 @@
   {
     "id": "music",
     "name": "Music",
-    "thumbnail": "https://example.com/music.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/wsHNUOgJJZU/hqdefault.jpg",
     "query": "top trending songs",
     "maxResults": 50,
     "path": "music.json"
@@ -51,7 +51,7 @@
   {
     "id": "technology",
     "name": "Technology",
-    "thumbnail": "https://example.com/technology.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/rBTuz3ve-dY/hqdefault.jpg",
     "query": "latest tech innovations",
     "maxResults": 50,
     "path": "technology.json"
@@ -59,7 +59,7 @@
   {
     "id": "education",
     "name": "Education",
-    "thumbnail": "https://example.com/education.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/q9TLPYJyVjc/hqdefault.jpg",
     "query": "educational videos",
     "maxResults": 50,
     "path": "education.json"
@@ -67,7 +67,7 @@
   {
     "id": "gaming",
     "name": "Gaming",
-    "thumbnail": "https://example.com/gaming.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/XAAOIEL7MGw/hqdefault.jpg",
     "query": "best gaming moments",
     "maxResults": 50,
     "path": "gaming.json"
@@ -75,7 +75,7 @@
   {
     "id": "news",
     "name": "News",
-    "thumbnail": "https://example.com/news.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/KMWcefrAKLg/hqdefault_live.jpg",
     "query": "latest world news",
     "maxResults": 50,
     "path": "news.json"
@@ -83,7 +83,7 @@
   {
     "id": "health",
     "name": "Health",
-    "thumbnail": "https://example.com/health.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/cVSFT-5XbT0/hqdefault.jpg",
     "query": "fitness and wellness",
     "maxResults": 50,
     "path": "health.json"
