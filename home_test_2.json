@@ -70,5 +70,23 @@
         "bunnyVideoUrl": "https://virotv.b-cdn.net/AMpubh7G2qw.mp4"
       }
     ]
+  },
+  {
+    "name": "Jazz Classics",
+    "id": "jazz_classics",
+    "videos": [
+      {
+        "ytVideoId": "rQz1Ue9z6jQ",
+        "title": "You think you know me   Ezra Ngcukana and friends",
+        "views": 2052710,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=rQz1Ue9z6jQ",
+        "thumbnail": "https://i.ytimg.com/vi/rQz1Ue9z6jQ/hqdefault.jpg",
+        "published_at": "2013-02-01T08:23:39Z",
+        "duration": 426,
+        "description": "The Late Ezra Ngcukana with his brother Duke and other Jazz musos from Cape Town perform Ezra's jazz standard.",
+        "bunnyVideoId": "rQz1Ue9z6jQ",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/rQz1Ue9z6jQ.mp4"
+      }
+    ]
   }
 ]
