@@ -196,5 +196,23 @@
         "bunnyVideoUrl": "https://virotv.b-cdn.net/ruSB3iSRWeo.mp4"
       }
     ]
+  },
+  {
+    "name": "movies.json",
+    "id": "movies",
+    "videos": [
+      {
+        "ytVideoId": "Y-rmzh0PI3c",
+        "title": "Cosmos Laundromat - First Cycle. Official Blender Foundation release.",
+        "views": 1254814,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=Y-rmzh0PI3c",
+        "thumbnail": "https://i.ytimg.com/vi/Y-rmzh0PI3c/hqdefault.jpg",
+        "published_at": "2015-08-10T17:11:43Z",
+        "duration": 731,
+        "description": "On a desolate island, suicidal sheep Franck meets his fate in a quirky salesman, who offers him the gift of a lifetime. Little does he know that he can only handle so much lifetime. (Target audience age: 13+)\n\n\"Cosmos Laundromat\" started in 2014 as an experimental feature film, in which an adventurous and absurdist love story is being told by multiple teams - each working in their own unique style. The opening of the film, the 10 minutes pilot \"First Cycle\", has been made in the Netherlands by the studio of Blender Institute in Amsterdam.\n\nThe film itself and all of the artwork files were made with free/open source software and are available under a permissive license. Free to share, free to remix and free to learn from.\n\nWant to see more? Subscribe to the Blender Cloud, our Open Production platform. https://cloud.blender.org/join\n\nProduction website: http://gooseberry.blender.org",
+        "bunnyVideoId": "Y-rmzh0PI3c",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/Y-rmzh0PI3c.mp4"
+      }
+    ]
   }
 ]
