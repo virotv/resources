@@ -16,5 +16,23 @@
         "bunnyVideoUrl": "https://virotv.b-cdn.net/Mm-jYHuZ7cc.mp4"
       }
     ]
+  },
+  {
+    "name": "Smooth Jazz for Relaxation",
+    "id": "smooth_jazz_for_relaxation",
+    "videos": [
+      {
+        "ytVideoId": "eKsZL2MQKdg",
+        "title": "Jazz Music | Smooth Jazz Saxophone | Relaxing Background Music with the Sound of Ocean Waves",
+        "views": 1184,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=eKsZL2MQKdg",
+        "thumbnail": "https://i.ytimg.com/vi/eKsZL2MQKdg/hqdefault.jpg",
+        "published_at": "2022-01-10T01:34:07Z",
+        "duration": 5509,
+        "description": "Jazz Music | Smooth Jazz Saxophone | Relaxing Background Music with the Sound of Ocean Waves\nhttps://youtu.be/eKsZL2MQKdg\n\n★) The channel is owned by Dominion Media Joint Stock Company. All video is under exploitation of Dominion Media. All videos are compiled and produced by ourselves.\nCopyright by Dominion Media Joint Stock Company.\nPlease do not re-up.\nEmail Contact: music@dominionmedia.net",
+        "bunnyVideoId": "eKsZL2MQKdg",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/eKsZL2MQKdg.mp4"
+      }
+    ]
   }
 ]
