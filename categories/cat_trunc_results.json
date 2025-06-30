@@ -232,5 +232,23 @@
         "bunnyVideoUrl": "https://virotv.b-cdn.net/OHshuTzgUYw.mp4"
       }
     ]
+  },
+  {
+    "name": "nature.json",
+    "id": "nature",
+    "videos": [
+      {
+        "ytVideoId": "p4YYCOIDfAs",
+        "title": "Our Nature: Symphony of Life | Free Documentary Nature",
+        "views": 46519,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=p4YYCOIDfAs",
+        "thumbnail": "https://i.ytimg.com/vi/p4YYCOIDfAs/hqdefault.jpg",
+        "published_at": "2024-12-25T13:01:03Z",
+        "duration": 2922,
+        "description": "Our Nature: Symphony of Life | Wildlife Documentary \n\nWatch 'Blue Planet: The Fascinating World Beneath the Waves' here: https://youtu.be/CnmLgezy3jc\n\nEarth is home to over 1.6 million known animal species, each contributing to the intricate web of life that defines our planet. From the soaring birds that grace the skies to the majestic elephants roaming the savannah, nature’s wild animals inhabit every corner of this big blue planet. Explore the extraordinary biodiversity that includes stealthy wildcats, vibrant marine life like whales and fish, and countless other creatures that thrive in diverse ecosystems. These species not only captivate with their beauty but also play vital roles in maintaining the balance of our wildlife and natural environments, reminding us of the delicate interconnectedness of all life forms.\n\n▬▬▬▬▬▬▬▬▬\r\n\r\nSubscribe to Free Documentary - Nature Channel for free: http://bit.ly/2mFDC3Q\r\nFacebook: https://bit.ly/2QfRxbG\r\nTwitter: https://bit.ly/2QlwRiI\r\n\r\n▬▬▬▬▬▬▬▬▬\r\n#FreeDocumentaryNature #Documentary #Nature \r\n▬▬▬▬▬▬▬▬▬\n\r\nFree Documentary is dedicated to bringing high-class documentaries to you on YouTube for free. With the latest camera equipment used by well-known filmmakers working for famous production studios. You will see fascinating shots from the deep seas and up in the air, capturing great stories and pictures of everything our beautiful and interesting planet has to offer. \r\n\r\nEnjoy stories about nature, wildlife, culture, people, history, and more to come.",
+        "bunnyVideoId": "p4YYCOIDfAs",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/p4YYCOIDfAs.mp4"
+      }
+    ]
   }
 ]
