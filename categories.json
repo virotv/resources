@@ -25,14 +25,6 @@
     "path": "nature.json"
   },
   {
-    "id": "sports",
-    "name": "Sports",
-    "thumbnail": "https://i.ytimg.com/vi/l4iAHFidcFk/hqdefault.jpg",
-    "query": "best football goals",
-    "maxResults": 50,
-    "path": "sports.json"
-  },
-  {
     "id": "comedy",
     "name": "Comedy",
     "thumbnail": "https://i.ytimg.com/vi/iYN5lx6DJs0/hqdefault.jpg",
