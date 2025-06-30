@@ -73,14 +73,6 @@
     "path": "gaming.json"
   },
   {
-    "id": "news",
-    "name": "News",
-    "thumbnail": "https://i.ytimg.com/vi/KMWcefrAKLg/hqdefault_live.jpg",
-    "query": "latest world news",
-    "maxResults": 50,
-    "path": "news.json"
-  },
-  {
     "id": "health",
     "name": "Health",
     "thumbnail": "https://i.ytimg.com/vi/cVSFT-5XbT0/hqdefault.jpg",
