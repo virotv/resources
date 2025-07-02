@@ -25,14 +25,6 @@
     "path": "nature.json"
   },
   {
-    "id": "sports",
-    "name": "Sports",
-    "thumbnail": "https://i.ytimg.com/vi/l4iAHFidcFk/hqdefault.jpg",
-    "query": "best football goals",
-    "maxResults": 50,
-    "path": "sports.json"
-  },
-  {
     "id": "comedy",
     "name": "Comedy",
     "thumbnail": "https://i.ytimg.com/vi/iYN5lx6DJs0/hqdefault.jpg",
@@ -71,14 +63,6 @@
     "query": "best gaming moments",
     "maxResults": 50,
     "path": "gaming.json"
-  },
-  {
-    "id": "news",
-    "name": "News",
-    "thumbnail": "https://i.ytimg.com/vi/KMWcefrAKLg/hqdefault_live.jpg",
-    "query": "latest world news",
-    "maxResults": 50,
-    "path": "news.json"
   },
   {
     "id": "health",

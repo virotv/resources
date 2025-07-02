@@ -25,14 +25,6 @@
     "path": "nature.json"
   },
   {
-    "id": "sports",
-    "name": "Sports",
-    "thumbnail": "https://i.ytimg.com/vi/l4iAHFidcFk/hqdefault.jpg",
-    "query": "best football goals",
-    "maxResults": 50,
-    "path": "sports.json"
-  },
-  {
     "id": "comedy",
     "name": "Comedy",
     "thumbnail": "https://i.ytimg.com/vi/iYN5lx6DJs0/hqdefault.jpg",
@@ -48,22 +40,7 @@
     "maxResults": 50,
     "path": "music.json"
   },
-  {
-    "id": "technology",
-    "name": "Technology",
-    "thumbnail": "https://i.ytimg.com/vi/rBTuz3ve-dY/hqdefault.jpg",
-    "query": "latest tech innovations",
-    "maxResults": 50,
-    "path": "technology.json"
-  },
-  {
-    "id": "education",
-    "name": "Education",
-    "thumbnail": "https://i.ytimg.com/vi/q9TLPYJyVjc/hqdefault.jpg",
-    "query": "educational videos",
-    "maxResults": 50,
-    "path": "education.json"
-  },
+  
   {
     "id": "gaming",
     "name": "Gaming",
@@ -71,21 +48,5 @@
     "query": "best gaming moments",
     "maxResults": 50,
     "path": "gaming.json"
-  },
-  {
-    "id": "news",
-    "name": "News",
-    "thumbnail": "https://i.ytimg.com/vi/KMWcefrAKLg/hqdefault_live.jpg",
-    "query": "latest world news",
-    "maxResults": 50,
-    "path": "news.json"
-  },
-  {
-    "id": "health",
-    "name": "Health",
-    "thumbnail": "https://i.ytimg.com/vi/cVSFT-5XbT0/hqdefault.jpg",
-    "query": "fitness and wellness",
-    "maxResults": 50,
-    "path": "health.json"
   }
 ]
