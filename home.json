@@ -406,5 +406,23 @@
         "bunnyVideoUrl": "https://virotv.b-cdn.net/6TSk6Xsguek.mp4"
       }
     ]
+  },
+  {
+    "name": "Sports Fails",
+    "id": "sports_fails",
+    "videos": [
+      {
+        "ytVideoId": "qmHKTGRqj7o",
+        "title": "Craziest Sports Fails Ever | Extreme Sports Failed",
+        "views": 1231308,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=qmHKTGRqj7o",
+        "thumbnail": "https://i.ytimg.com/vi/qmHKTGRqj7o/hqdefault.jpg",
+        "published_at": "2025-04-23T13:01:30Z",
+        "duration": 1202,
+        "description": "Who's keeping score? 😭 ►►► Submit your videos for the chance to be featured 🔗 https://www.failarmy.com/pages/submit-video ▼ Follow us for more fails! https://linktr.ee/failarmy\n\nCatch all our shows streaming today ➝ https://www.failarmy.com/pages/watch-live\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 69 million fans across digital platforms! From our team to you all, thank you for your support 😊\n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense\n\n#FailArmy #Fails",
+        "bunnyVideoId": "qmHKTGRqj7o",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/qmHKTGRqj7o.mp4"
+      }
+    ]
   }
 ]
