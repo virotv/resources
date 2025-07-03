@@ -484,5 +484,23 @@
         "bunnyVideoUrl": "https://virotv.b-cdn.net/qmHKTGRqj7o.mp4"
       }
     ]
+  },
+  {
+    "name": "Animal Fails",
+    "id": "animal_fails",
+    "videos": [
+      {
+        "ytVideoId": "Qv58hR2SGkg",
+        "title": "Best Dogs Failing Compilation | Try Not to Laugh",
+        "views": 4674388,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=Qv58hR2SGkg",
+        "thumbnail": "https://i.ytimg.com/vi/Qv58hR2SGkg/hqdefault.jpg",
+        "published_at": "2021-08-25T13:00:20Z",
+        "duration": 509,
+        "description": "Man's best friend does not shy away from causing some of man's best fails. To celebrate National Dog Day, we've rounded up some of the best doggo fails online. Which ones deserve treats, who needs a time out, or who should just go fetch off? Let us know in the comments!\n#Failarmy #fails #funny #compilation #dogs\n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\nFailArmy Merch Store • http://fail.army/2YU6Ax0\n\n▼ FOLLOW US FOR MORE FAILS!\n➤ Facebook ➝  http://bit.ly/FAILfacebook\n➤ Instagram ➝ http://bit.ly/FAILinstagram\n➤ Snapchat ➝  http://bit.ly/FAILsnapchat\n➤ TikTok ➝  http://bit.ly/FAILtiktok\n➤ Twitter ➝ http://bit.ly/FALtwitter\n\nCheck out FailArmy U!!! • http://bit.ly/failu\nWe've got friends in high places! Give them a watch: \n\nPeople Are Awesome - http://youtube.com/peopleareawesome\nThe Pet Collective - http://youtube.com/thepetcollective\nThis is Happening - http://youtube.com/ThisisHappening\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.",
+        "bunnyVideoId": "Qv58hR2SGkg",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/Qv58hR2SGkg.mp4"
+      }
+    ]
   }
 ]
