@@ -550,5 +550,23 @@
         "bunnyVideoUrl": "https://virotv.b-cdn.net/Qv58hR2SGkg.mp4"
       }
     ]
+  },
+  {
+    "name": "Wedding Fails",
+    "id": "wedding_fails",
+    "videos": [
+      {
+        "ytVideoId": "B44j2qhA3Tg",
+        "title": "Funny Wedding Fails Caught on Camera",
+        "views": 2250692,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=B44j2qhA3Tg",
+        "thumbnail": "https://i.ytimg.com/vi/B44j2qhA3Tg/hqdefault.jpg",
+        "published_at": "2024-11-05T13:01:48Z",
+        "duration": 1673,
+        "description": "Hilarious cake crashes, a fail instead of a first dance, and pranks that will make you laugh out loud - get ready for some of the funniest wedding mishaps ever!\n\nThe video features materials that are copyright to Newsflare.\n\nhttps://www.tiktok.com/@notyourzaddyy\nhttps://www.instagram.com/devadarika/",
+        "bunnyVideoId": "B44j2qhA3Tg",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/B44j2qhA3Tg.mp4"
+      }
+    ]
   }
 ]
