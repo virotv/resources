@@ -1,0 +1,20 @@
+[
+  {
+    "name": "4K Bird Watching",
+    "id": "4k_bird_watching",
+    "videos": [
+      {
+        "ytVideoId": "d95PPykB2vE",
+        "title": "Rainy Day [short 30 sec animation]",
+        "views": 518913,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=d95PPykB2vE",
+        "thumbnail": "https://i.ytimg.com/vi/d95PPykB2vE/hqdefault.jpg",
+        "published_at": "2018-05-18T05:45:39Z",
+        "duration": 29,
+        "description": "I did this little video because I wanted to practice backgrounds and setting up a film in OpenToonz :) putting the sound effects together was super fun",
+        "bunnyVideoId": "d95PPykB2vE",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/d95PPykB2vE.mp4"
+      }
+    ]
+  }
+]
