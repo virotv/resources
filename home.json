@@ -1,5 +1,4 @@
 [
-  
   {
     "name": "Cityscapes in 4K",
     "id": "cityscapes_in_4k",
@@ -94,6 +93,18 @@
     "name": "Scenic Relaxation Videos",
     "id": "scenic_relaxation_videos",
     "videos": [
+      {
+        "ytVideoId": "vZC8OMZUE88",
+        "title": "Yellowstone Musical 8K UHD, Dancing Geysers w Ambient, Cinematic and Classical Beautiful Music.",
+        "views": 549577,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=vZC8OMZUE88",
+        "thumbnail": "https://i.ytimg.com/vi/vZC8OMZUE88/hqdefault.jpg",
+        "published_at": "2021-10-31T00:40:02Z",
+        "duration": 2308,
+        "description": "8 K UHD Musical Yellowstone.\nLots of erupting geysers, hot springs and pools, wild lives and Stunning Sceneries of the natures",
+        "bunnyVideoId": "vZC8OMZUE88",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/virotv/vZC8OMZUE88.mp4"
+      },
       {
         "ytVideoId": "2b2gJu-g3qE",
         "title": "Italy 4K - Scenic Relaxation Film With Calming Music",
