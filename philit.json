@@ -131,5 +131,74 @@
         "bunnyVideoUrl": "https://virotv.b-cdn.net/virotv/J62Gn01e5a0.mp4"
       }
     ]
+  },
+
+
+
+  {
+    "name": "Collections",
+    "id": "trending_now",
+    "videos": [
+      {
+        "ytVideoId": "1",
+        "title": "Young and Stupid",
+        "views": 1357557,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=J62Gn01e5a0",
+        "thumbnail": "https://i.postimg.cc/htxDPpTY/3.png",
+        "published_at": "2024-04-09T12:15:01Z",
+        "duration": 7583,
+        "description": "An Original Philit Productions Film Featuring Bensoul",
+        "bunnyVideoId": "1",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/virotv/J62Gn01e5a0.mp4"
+      },
+      {
+        "ytVideoId": "2",
+        "title": "Headline Hitters",
+        "views": 1357557,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=J62Gn01e5a0",
+        "thumbnail": "https://i.postimg.cc/DyRfTtJs/4.png",
+        "published_at": "2024-04-09T12:15:01Z",
+        "duration": 7583,
+        "description": "Pushed by her family�s expectations and business pressure, a desperate entrepreneur and her friend, a debt-ridden theatre director fabricate a fake engagement and sham dowry ceremony, hoping to score desperately needed cash from her own family.\nFeaturing Nyokabi Macharia, Bruce Makau , Shix �Kapienga� Karanja, Duncan Murunyu, Ben Tekee, Gloria Songoro , Andrew Levi , Morris Mwangi",
+        "bunnyVideoId": "J62Gn01e5a0",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/virotv/J62Gn01e5a0.mp4"
+      },
+      {
+        "ytVideoId": "3",
+        "title": "Minisodes",
+        "views": 1357557,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=J62Gn01e5a0",
+        "thumbnail": "https://i.postimg.cc/pLQw67DP/Mpakani.png",
+        "published_at": "2024-04-09T12:15:01Z",
+        "duration": 7583,
+        "description": "When a routine outing at work takes an unexpected turn, a group of young friends find themselves caught in the crosshairs of a ruthless politician in a fast paced and high stakes race for survival.\nFeaturing JulieBrenda Nyambura, Neville Ignatius, Elsaphan Njora, Eddy Kimani, Kalekye Mumo, Bilal Wanjau, Lorna Lemi, Duncan Murunyu",
+        "bunnyVideoId": "J62Gn01e5a0",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/virotv/J62Gn01e5a0.mp4"
+      },
+      {
+        "ytVideoId": "4",
+        "title": "A Grand Little Lie",
+        "views": 1357557,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=J62Gn01e5a0",
+        "thumbnail": "https://i.postimg.cc/rw4btHhS/maxresdefault-1.jpg",
+        "published_at": "2024-04-09T12:15:01Z",
+        "duration": 7583,
+        "description": "Desperate to keep his girlfriend happy, a people-pleasing man tells his boss a seemingly harmless lie that spirals wildly out of control",
+        "bunnyVideoId": "J62Gn01e5a0",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/virotv/J62Gn01e5a0.mp4"
+      },
+      {
+        "ytVideoId": "5",
+        "title": "Click Click Bang",
+        "views": 1357557,
+        "ytVideoUrl": "https://www.youtube.com/watch?v=J62Gn01e5a0",
+        "thumbnail": "https://i.postimg.cc/k5dHNyZL/p25904144-b-h10-aa.jpg",
+        "published_at": "2024-04-09T12:15:01Z",
+        "duration": 7583,
+        "description": "A footballer turns to petty crime when his sporting career stalls. Under the wing of a crooked cop, he soon descends deeper into the criminal underworld.",
+        "bunnyVideoId": "J62Gn01e5a0",
+        "bunnyVideoUrl": "https://virotv.b-cdn.net/virotv/J62Gn01e5a0.mp4"
+      }
+    ]
   }
 ]
